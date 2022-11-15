@@ -9,6 +9,6 @@
 - We will understand which Bayes Theorem and Naive Bayes assumptions.
 - We will perform experiment with Laplace smoothing, Removal of Less Frequent words, Stop words removal etc to better understand their effects.
 
-It's recommended to start with this [Medium blog post](https://medium.com/@yogesh.grjr4/convolution-neural-network-43d0380d229d)
+It's recommended to start with this [Medium blog post](https://medium.com/@yogesh.grjr4/naive-bayes-classification-7a0b27201481)
 
 
